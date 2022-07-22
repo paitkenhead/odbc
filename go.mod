@@ -1,3 +1,4 @@
+replace github.com/alexbrainman/odbc => github.com/paitkenhead/odbc
 module github.com/alexbrainman/odbc
 
 require (
